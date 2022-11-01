@@ -1,0 +1,3 @@
+PageRank is a system developed in 1997 by Google founders Larry Page and Sergey Brin. It was designed to evaluate the quality and quantity of links to a page. Along with other factors, the score determined pages' positions in search engine rankings.
+It helps Google to decide the importance of a page and it is the main reason behind which the PageRank for a website is determined in the search results. 
+The PageRank for website algorithm assigns a numerical value to each web page. The rating of a web page is on a scale from 0 to 10
